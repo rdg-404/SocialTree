@@ -15,7 +15,11 @@
 </div>
 
 
+<br><br><br><br>
 <h1 align="center">Tecnologias utilizadas</h1>
 
 * HTML
 * CSS
+
+
+Desenvolvido por [Rodrigo](https://github.com/rdg-404)
