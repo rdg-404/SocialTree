@@ -13,3 +13,9 @@
 <div align= "center">
   <img  src="./assets/screenshots/mobile.png">
 </div>
+
+
+<h1 align="center">Tecnologias utilizadas</h1>
+
+* HTML
+* CSS
