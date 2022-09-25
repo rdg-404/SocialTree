@@ -20,8 +20,8 @@
 
 
 .profile-image {
-    width: 180px;
-    height: 180px;
+    width: 260px;
+    height: 260px;
     border-radius: 100%;
     padding: 5px;
     border: 2px solid var(--main-color);
@@ -38,7 +38,7 @@
     list-style: none;
     font-family: var(--main-font);
     color: var(--main-color);
-    width: 400px;
+    width: 600px;
     
 }
 
@@ -72,4 +72,20 @@
 .ul-social li{
     list-style: none;
     
+}
+
+
+
+@media (max-width: 980px) {
+
+    .ul-links{
+        width: 400px;
+        
+    }
+
+    .profile-image {
+        width: 220px;
+        height: 220px;
+
+    }
 }
