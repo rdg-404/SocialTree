@@ -22,4 +22,4 @@
 * CSS
 
 <br><br><br><br><br><br><br><br>
-Desenvolvido por [Rodrigo](https://github.com/rdg-404)
+Desenvolvido por [Rodrigo Paiva](https://github.com/rdg-404)
